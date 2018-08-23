@@ -1,0 +1,25 @@
+
+public class escapesequencepractice {
+	public static void main(String[] args) {
+	System.out.println("Pikachu welcomes you to the world of Pokémon!");
+	System.out.println(" (\\__/)");
+	System.out.println(" (o^.^)");
+	System.out.println("z(_(\")(\")");
+	
+	}
+}
+
+public class Hola {
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+
+}
+
+
+public class Travel {
+	public static void main(String[] args) {
+		System.out.println("2017 travel plan Alaska");
+		System.out.println("2018 travel plan:TBD");
+	}
+}
